@@ -5,15 +5,15 @@
 
 export const BRAND_CONFIG = {
   // Change this single constant to update your brand name throughout the entire application:
-  brandName: "Your Agency Name",
-  shortName: "Your Agency",
-  legalEntityName: "Your Agency Name Digital LLC",
+  brandName: "Adclivon.com",
+  shortName: "Adclivon.com",
+  legalEntityName: "Adclivon Digital LLC",
   tagline: "Strategic SEO, Quality Link Building & Editorial Guest Posting",
   metaDescription:
     "We help businesses improve organic visibility, strengthen backlink profiles, and attract qualified traffic through data-driven SEO, guest posting, and link insertion.",
   
   // Contact information placeholders
-  contactEmail: "inquiries@youragencyname.com",
+  contactEmail: "mur283gb@gmail.com",
   editorialEmail: "editorial@youragencyname.com",
   phone: "+1 (800) 555-0199",
   address: "100 Montgomery Street, Suite 1400, San Francisco, CA 94104",
